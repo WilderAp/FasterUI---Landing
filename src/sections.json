@@ -1,109 +1,141 @@
 {
-    "section-one": {
-        "nav": "",
-        "logo": "https://res.cloudinary.com/db60chvpz/image/upload/v1715141767/Landings/f5su19ja3iio9iykx2wy.png",
-        "item1": "Home",
-        "item2": "Pages",
-        "item3": "Portfolio",
-        "item4": "Blog",
-        "item5": "Contact"
+  "section-one": {
+    "nav": "",
+    "logo": "https://res.cloudinary.com/db60chvpz/image/upload/v1715753497/FasterUI/x6vjnjuxgwakintvneg1.png",
+    "item1": "Home",
+    "item2": "About",
+    "item3": "How it Works",
+    "item4": "Blog",
+    "item5": "Services"
+  },
+  "section-two": {
+    "Hero": "",
+    "title": "Awesome UI Dark Template for Webflow Agency",
+    "description": "No Coding required to make customization. the live customizer has everything you need.",
+    "button1": "Schedule Meeting",
+    "view": "View Promotion",
+    "infoButton1": "Free 14 Days Trial",
+    "infoButton2": "One Time Payment",
+    "bread": "Notero-Easy Note App",
+    "image": "https://res.cloudinary.com/db60chvpz/image/upload/v1715147191/Landings/vrwxzwr1mnqtuzwcfatj.png"
+  },
+  "section-three": {
+    "recursos": "",
+    "breadcrum": "25K+ Installation ",
+    "breadcrum2": "and featured on",
+    "span": "Notero-Easy Note App",
+    "breadcrum3": "Awesome ",
+    "breadcrum4": "features",
+    "title": "Como o Border-IA te",
+    "title2": "ajuda no dia a dia",
+    "item1": {
+      "id": 1,
+      "logo": "",
+      "title": "Removedor de fundo",
+      "description": "Torne o fundo transparente em qualquer foto."
     },
-    "section-two": {
-        "Hero": "",
-        "title": "Note Your Everything In One App",
-        "description": "No Coding required to make customization. the live customizer has everything you need.",
-        "button1": "|  Download App",
-        "view": "View Promotion",
-        "infoButton1": "Free 14 Days Trial",
-        "infoButton2": "One Time Payment",
-        "bread": "Notero-Easy Note App",
-        "image": "https://res.cloudinary.com/db60chvpz/image/upload/v1715147191/Landings/vrwxzwr1mnqtuzwcfatj.png"
+    "item2": {
+      "id": 2,
+      "logo": "",
+      "title": "Gerador de texto",
+      "description": "Gere textos de espaço reservado para suas interfaces."
     },
-    "section-three": {
-        "recursos": "",
-        "breadcrum": "25K+ Installation ",
-        "breadcrum2": "and featured on",
-        "span": "Notero-Easy Note App",
-        "breadcrum3": "Awesome ",
-        "breadcrum4": "features",
-        "title": "Como o Border-IA te",
-        "title2": "ajuda no dia a dia",
-        "item1": {
-            "id":1,
-            "logo": "",
-            "title": "Removedor de fundo",
-            "description": "Torne o fundo transparente em qualquer foto."
-        },
-        "item2": {
-            "id":2,
-            "logo": "",
-            "title": "Gerador de texto",
-            "description": "Gere textos de espaço reservado para suas interfaces."
-        },
-        "item3": {
-            "id":3,
-            "logo": "",
-            "title": "Amplificador de imagem",
-            "description": "Amplie imagens e melhore sua resolução."
-        },
-        "item4": {
-            "id":4,
-            "logo": "",
-            "title": "Gerador de avatar",
-            "description": "Crie instantaneamente avatares de usuários."
-        }
+    "item3": {
+      "id": 3,
+      "logo": "",
+      "title": "Amplificador de imagem",
+      "description": "Amplie imagens e melhore sua resolução."
     },
-    "section-five": {
-        "Noter": "",
-        "picture": "https://res.cloudinary.com/db60chvpz/image/upload/v1715225746/Landings/iTech/gx7l3ocowgyrkg0stvvi.png",
-        "subtitle": "Notero-Easy Note App",
-        "title": "The Noter For Creative",
-        "body": "Stay focused and productive with a clean clutter-free note space. the flexible ways to organize your notes: hashtags , nested notebooks , pining notes to the top of the note list, ect.",
-        "infoButton1": "Filtering notes using matched keywords",
-        "infoButton2": "Automatically sync in real timeAutomatically sync in real time",
-        "infoButton3": "Complete note editor with rich text options",
-        "button": "Free Register"
-    },
-    "section-six": {
-        "Noter2": "",
-        "picture": "https://res.cloudinary.com/db60chvpz/image/upload/v1715225746/Landings/iTech/cyfmdwa5egmwztbmasbe.png",
-        "subtitle": "Notero-Easy Note App",
-        "title": "Your Notes Security ",
-        "body": "Automatically syncs across all your devices. You can also access and write notes without internet connection.",
-        "infoButton1": "Filtering notes using matched keywords",
-        "infoButton2": "Automatically sync in real timeAutomatically sync in real time",
-        "infoButton3": "Complete note editor with rich text options",
-        "button": "Free Register"
-    },
-    "section-last": {
-        "footer": "",
-        "logo": "https://res.cloudinary.com/db60chvpz/image/upload/v1715141767/Landings/f5su19ja3iio9iykx2wy.png",
-        "title": "",
-        "section-1": {
-            "delivery": "Warehouse Society, 234 Bahagia Ave Street PRBW 29281",
-            "email": "info@warehouse.project",
-            "phone": "1-232-3434 (Main)"
-        },
-        "section-2": {
-            "item1": "Desenvolvido por: ",
-            "item2": "Jonas Milan & André Valentim",
-            "item3": "BLOG",
-            "item4": "ABOUT",
-            "item5": "SERVICES"
-        },
-        "section-3": {
-            "button1": {
-                "title": "Facebook",
-                "icon": ""
-            },
-            "button2": {
-                "title": "Twitter",
-                "icon": ""
-            },
-            "button3": {
-                "title": "Instagram",
-                "icon": ""
-            }
-        }
+    "item4": {
+      "id": 4,
+      "logo": "",
+      "title": "Gerador de avatar",
+      "description": "Crie instantaneamente avatares de usuários."
     }
+  },
+  "section-four": {
+    "recursos": "",
+    "breadcrum": "RECURSOS",
+    "title": "What We do",
+    "title2": "ajuda no dia a dia",
+    "item1": {
+      "id": 1,
+      "logo": "",
+      "title": "Removedor de fundo",
+      "description": "Torne o fundo transparente em qualquer foto."
+    },
+    "item2": {
+      "id": 2,
+      "logo": "",
+      "title": "Gerador de texto",
+      "description": "Gere textos de espaço reservado para suas interfaces."
+    },
+    "item3": {
+      "id": 3,
+      "logo": "",
+      "title": "Amplificador de imagem",
+      "description": "Amplie imagens e melhore sua resolução."
+    },
+    "item4": {
+      "id": 4,
+      "logo": "",
+      "title": "Gerador de avatar",
+      "description": "Crie instantaneamente avatares de usuários."
+    }
+  },
+  "section-five": {
+    "Noter": "",
+    "picture": "https://res.cloudinary.com/db60chvpz/image/upload/v1715225746/Landings/iTech/gx7l3ocowgyrkg0stvvi.png",
+    "subtitle": "Notero-Easy Note App",
+    "title": "The Noter For Creative",
+    "body": "Stay focused and productive with a clean clutter-free note space. the flexible ways to organize your notes: hashtags , nested notebooks , pining notes to the top of the note list, ect.",
+    "infoButton1": "Filtering notes using matched keywords",
+    "infoButton2": "Automatically sync in real timeAutomatically sync in real time",
+    "infoButton3": "Complete note editor with rich text options",
+    "button": "Free Register"
+  },
+  "section-six": {
+    "Noter2": "",
+    "title": "Pricing ",
+    "body": "Take a look at some of our recent projects to see how we've helped businesses like yours succeed online.",
+    "items": [
+      "Unlimited requests",
+      "Unlimited requests",
+      "Unlimited requests",
+      "Unlimited requests",
+      "Unlimited requests",
+      "Unlimited requests"
+    ]
+  },
+  "section-last": {
+    "footer": "",
+    "logo": "https://res.cloudinary.com/db60chvpz/image/upload/v1715753497/FasterUI/x6vjnjuxgwakintvneg1.png",
+    "title": "",
+    "section-1": {
+      "delivery": "Warehouse Society, 234 Bahagia Ave Street PRBW 29281",
+      "email": "info@warehouse.project",
+      "phone": "1-232-3434 (Main)"
+    },
+    "section-2": {
+      "item1": "Desenvolvido por: ",
+      "item2": "Jonas Milan & André Valentim",
+      "item3": "BLOG",
+      "item4": "ABOUT",
+      "item5": "SERVICES"
+    },
+    "section-3": {
+      "button1": {
+        "title": "Facebook",
+        "icon": ""
+      },
+      "button2": {
+        "title": "Twitter",
+        "icon": ""
+      },
+      "button3": {
+        "title": "Instagram",
+        "icon": ""
+      }
+    }
+  }
 }

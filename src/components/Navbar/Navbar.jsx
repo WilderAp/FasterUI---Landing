@@ -10,13 +10,13 @@ const Navbar = () => {
       className=" flex justify-between px-5 lg:px-10 py-10"
       style={{ backgroundColor: "white" }}
     >
-      <div className="">
+      <div className="my-auto">
         <a className=" text-xl" href="/#">
           <img src={texts["section-one"].logo} alt="logo" />
         </a>
       </div>
-      <div className="justify-between hidden lg:flex items-center">
-        <ul className="menu menu-horizontal  font-semibold  gap-16">
+      <div className="justify-between hidden lg:flex items-center ">
+        <ul className="menu menu-horizontal  font-semibold py-4 px-5 gap-16 bg-white border rounded-2xl">
           <li className="hover:text-[#6953D3]">
             <a href="/#">{texts["section-one"].item1}</a>
           </li>
@@ -29,31 +29,28 @@ const Navbar = () => {
           <li className="hover:text-[#6953D3]">
             <a href="/#">{texts["section-one"].item4}</a>
           </li>
+          <li className="hover:text-[#6953D3]">
+            <a href="/#">{texts["section-one"].item5}</a>
+          </li>
         </ul>
       </div>
       <div className="flex items-center">
         <a
-          className="flex items-center btn  gap-2 px-3 py-2 rounded-full"
+          className="flex items-center  px-3 py-2 rounded-5"
           href="/#"
-          style={{ backgroundColor: "white" }}
+          style={{ backgroundColor: "white", opacity: "50%" }}
         >
-          Contact
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            fill="none"
-            viewBox="0 0 24 24"
-            strokeWidth={1.5}
-            stroke="currentColor"
-            className="w-4 h-4"
-          >
-            <title>arrow</title>
-            <path
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              d="M17.25 8.25 21 12m0 0-3.75 3.75M21 12H3"
-            />
-          </svg>
+          Sign In
         </a>
+        <div className="flex items-center">
+          <a
+            className="flex items-center btn  gap-2 px-6 py-2 rounded-5"
+            href="/#"
+            style={{ backgroundColor: "#4E47FF", color: "white" }}
+          >
+            Sign Up
+          </a>
+        </div>
       </div>
       <MenuMobile isOpen={isOpen} onClick={handleIsOpen} />
     </div>
