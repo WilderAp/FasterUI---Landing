@@ -19,10 +19,11 @@ function App() {
         <Noter />
         <Noter2 />
         <Focus />
-        <Mobile />
         <Reviews />
       </Layout>
-      <MainFooter />
+      <section className=" ">
+        <MainFooter />
+      </section>
     </main>
   );
 }

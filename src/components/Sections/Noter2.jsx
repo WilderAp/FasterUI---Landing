@@ -24,7 +24,7 @@ function Noter2() {
             {/* Items */}
             <section className="sm:flex max-w-sm mx-auto flex flex-col gap-5  items-start md:max-w-2xl lg:max-w-4xl   ">
               {/* item 1 */}
-              <div className="card border p-5">
+              <div className="card border p-5 bg-white">
                 <h2
                   className="text-3xl font-semibold mb-7"
                   style={{ width: "210px" }}
@@ -43,7 +43,7 @@ function Noter2() {
         </div>
         <div className="py-6 md:py-0 md:w-1/2 px-6 sm:px-10 md:px-0">
           <div className="relative flex flex-col items-center   ">
-            <div className="card border p-5">
+            <div className="card border p-5 bg-white">
               <h2 className="text-3xl font-semibold mb-4">
                 Unlimited Services
               </h2>
@@ -74,15 +74,17 @@ function Noter2() {
                   </div>
                 ))}
               </section>
-              <a
-                className="flex items-center btn text-white bg-grey  rounded-lg  hover:bg-gray-800  w-100 h-16 sm:ml-0"
-                href="#0"
-              >
-                <div className="mr-auto flex items-end">
-                  <h2 className="text-3xl ">$3,250</h2>
-                  <p className="">/mo</p>
-                </div>
-              </a>
+              <button type="button" className="bg-[#F5F8FF]">
+                <a
+                  className="flex items-center btn text-black border-none  rounded-lg  hover:bg-[#4E47FF]  w-100 h-16 sm:ml-0"
+                  href="#0"
+                >
+                  <div className="mr-auto flex items-end">
+                    <h2 className="text-3xl ">$3,250</h2>
+                    <p className="">/mo</p>
+                  </div>
+                </a>
+              </button>
             </div>
           </div>
         </div>
