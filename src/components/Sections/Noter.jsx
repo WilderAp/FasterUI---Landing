@@ -32,7 +32,7 @@ function Noter() {
     <section>
       <div className="flex flex-col mb-7">
         <h1 className="mx-auto text-5xl font-bold mb-10">Check our Work</h1>
-        <p className="mx-auto text-center" style={{ width: "450px" }}>
+        <p className="mx-auto text-center" style={{ maxWidth: "450px" }}>
           Take a look at some of our recent projects to see how we{"'"}ve helped
           businesses like yours succeed online.
         </p>

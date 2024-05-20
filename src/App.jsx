@@ -14,12 +14,24 @@ function App() {
     <main>
       <Navbar />
       <Layout maxWidth="max-w-[1440px]">
-        <Hero />
-        <Features />
-        <Noter />
-        <Noter2 />
-        <Focus />
-        <Reviews />
+        <section id="home">
+          <Hero />
+        </section>
+        <section id="about">
+          <Features />
+        </section>
+        <section id="works">
+          <Noter />
+        </section>
+        <section id="services">
+          <Noter2 />
+        </section>
+        <section>
+          <Focus />
+        </section>
+        <section>
+          <Reviews />
+        </section>
       </Layout>
       <section className=" ">
         <MainFooter />

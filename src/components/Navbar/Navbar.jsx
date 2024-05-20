@@ -15,19 +15,19 @@ const Navbar = () => {
       <div className="justify-between hidden lg:flex items-center ">
         <ul className="menu menu-horizontal  font-semibold py-4 px-5 gap-16 bg-white bg-opacity-34 border rounded-2xl">
           <li className="hover:text-[#6953D3]">
-            <a href="/#">{texts["section-one"].item1}</a>
+            <a href="/#home">{texts["section-one"].item1}</a>
           </li>
           <li className="hover:text-[#6953D3]">
-            <a href="/#">{texts["section-one"].item2}</a>
+            <a href="/#about">{texts["section-one"].item2}</a>
           </li>
           <li className="hover:text-[#6953D3]">
-            <a href="/#">{texts["section-one"].item3}</a>
+            <a href="/#works">{texts["section-one"].item3}</a>
           </li>
           <li className="hover:text-[#6953D3]">
             <a href="/#">{texts["section-one"].item4}</a>
           </li>
           <li className="hover:text-[#6953D3]">
-            <a href="/#">{texts["section-one"].item5}</a>
+            <a href="/#services">{texts["section-one"].item5}</a>
           </li>
         </ul>
       </div>

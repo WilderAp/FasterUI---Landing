@@ -6,7 +6,7 @@ function Reviews() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6  md:flex items-center justify-center">
         {/* Hero content */}
 
-        <div className="card w-96 h-60 bg-white image-full">
+        <div className="card w-50 md:w-[700px] h-[200px] bg-white image-full">
           <figure>
             <img
               src="https://res.cloudinary.com/db60chvpz/image/upload/v1715832407/FasterUI/pl25qcqk6bdtd8lk8fop.png"
